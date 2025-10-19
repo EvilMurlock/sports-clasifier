@@ -8,7 +8,7 @@ Dokončení této úlohy mi zabralo 30 minut
 
 
 ---Vytvořte klasifikátor textů---
-Kód této úlohy je uložen ve formě jupiter notebooku v souboru "klasifikátor zpráv.ipynb". Použitý python virtual environment je v souboru ".venv"
+Kód této úlohy je uložen ve formě jupiter notebooku v souboru "klasifikátor zpráv.ipynb". Požadované python moduly jsou v souboru requirements.txt.
 Finální model je: "sports_model_finetuned"
 F1 scére modelu je: 0.868
 

@@ -1,0 +1,8 @@
+pandas
+numpy
+torch
+glob
+transformers
+datasets
+evaluate
+tqdm
